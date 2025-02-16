@@ -5,6 +5,6 @@
 # Process:
 
 for i in range(1,11):
-    print("Natural Numbers are",i)
+    print("Natural Number is",i)
 
     

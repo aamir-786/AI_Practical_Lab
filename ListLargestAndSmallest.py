@@ -14,3 +14,4 @@ for i in num:
         smallest=i
 print("Largest Number in the list is: ",largest)
 print("Smallest Number in the list is: ",smallest)
+

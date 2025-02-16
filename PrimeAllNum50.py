@@ -8,4 +8,3 @@ for num in range(1,51):
                 break
         else:
             print(num)
-            
