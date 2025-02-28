@@ -13,5 +13,5 @@ def factorial(num):
         fact = fact * i
     return fact
    
-   print("Factorial of the number is: ", factorial(int(num)))
+    print("Factorial of the number is: ", factorial(int(num)))
     

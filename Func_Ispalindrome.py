@@ -14,4 +14,4 @@ def IsPlaindrome(string):
     else:
         return "Not Palindrome"
     
-print("String is: ", IsPlaindrome(string))
+print("String is: ", IsPlaindrome(string)) 

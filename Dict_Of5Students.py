@@ -15,3 +15,16 @@ print("===============================================")
 
 students["St3"] = 75
 print("Updated Dictionary: ", students)
+
+
+
+# 33.	Write a program to find the student with the highest marks.
+
+print("===============================================")
+print("Find the student with the highest marks.")
+print("===============================================")
+
+maxMarks = max(students.values())
+for key, value in students.items():
+    if value == maxMarks:
+        print("Student with highest marks is: ", key, value)
