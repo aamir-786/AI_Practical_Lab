@@ -4,6 +4,7 @@
 # Output: First 10 natural numbers
 # Process:
 
+import utils.session
 for i in range(1,11):
     print("Natural Number is",i)
 
